@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1564998789750" clover="3.2.0">
+  <project timestamp="1564998789750" name="All files">
+    <metrics statements="32" coveredstatements="19" conditionals="10" coveredconditionals="7" methods="19" coveredmethods="8" elements="61" coveredelements="34" complexity="0" loc="32" ncloc="32" packages="2" files="6" classes="6"/>
+    <package name="components">
+      <metrics statements="30" coveredstatements="17" conditionals="10" coveredconditionals="7" methods="18" coveredmethods="7"/>
+      <file name="collapse.jsx" path="C:\Users\Alena_Minich\Documents\react\epam\mentoring\src\components\collapse.jsx">
+        <metrics statements="3" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+      </file>
+      <file name="foto.jsx" path="C:\Users\Alena_Minich\Documents\react\epam\mentoring\src\components\foto.jsx">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+      </file>
+      <file name="fotoList.jsx" path="C:\Users\Alena_Minich\Documents\react\epam\mentoring\src\components\fotoList.jsx">
+        <metrics statements="17" coveredstatements="12" conditionals="8" coveredconditionals="7" methods="9" coveredmethods="6"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="18" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="5" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="30" count="5" type="stmt"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="35" count="5" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="39" count="15" type="cond" truecount="1" falsecount="1"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="46" count="15" type="stmt"/>
+        <line num="59" count="51" type="stmt"/>
+      </file>
+      <file name="loadMore.jsx" path="C:\Users\Alena_Minich\Documents\react\epam\mentoring\src\components\loadMore.jsx">
+        <metrics statements="3" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+      <file name="search.jsx" path="C:\Users\Alena_Minich\Documents\react\epam\mentoring\src\components\search.jsx">
+        <metrics statements="5" coveredstatements="1" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="services">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="fakeMovieservice.js" path="C:\Users\Alena_Minich\Documents\react\epam\mentoring\src\services\fakeMovieservice.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="77" count="5" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

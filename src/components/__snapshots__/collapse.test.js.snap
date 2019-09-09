@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Collapse Button renders correctly 1`] = `
+Array [
+  <button
+    align="center"
+    className="btn btn-danger"
+    onClick={[Function]}
+  >
+    Collapse
+  </button>,
+]
+`;

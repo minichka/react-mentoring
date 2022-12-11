@@ -22,7 +22,7 @@
   "homepage": "https://github.com/minichka/react-mentoring#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.1.0",
